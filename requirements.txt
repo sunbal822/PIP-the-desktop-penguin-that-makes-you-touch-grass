@@ -1,0 +1,7 @@
+  numpy
+  opencv-python
+  ollama
+  pyttsx3
+  vosk
+  sounddevice
+  edge-tts
